@@ -5,3 +5,4 @@ plotly
 audio-recorder-streamlit
 speechrecognition
 pydub
+beautifulsoup4
