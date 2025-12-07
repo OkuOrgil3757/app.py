@@ -1,0 +1,7 @@
+prophet
+pandas
+matplotlib
+plotly
+audio-recorder-streamlit
+speechrecognition
+pydub
